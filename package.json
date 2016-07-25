@@ -1,6 +1,10 @@
 {
   "name": "AwesomeFrontend",
   "private": true,
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build"
+  },
   "devDependencies": {
     "gitbook-cli": "2.3.0"
   }
