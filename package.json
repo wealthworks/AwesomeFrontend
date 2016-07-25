@@ -1,0 +1,7 @@
+{
+  "name": "AwesomeFrontend",
+  "private": true,
+  "devDependencies": {
+    "gitbook-cli": "2.3.0"
+  }
+}
