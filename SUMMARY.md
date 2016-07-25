@@ -9,3 +9,4 @@
 ### Recipes
 
 * [Git](recipes/git.md)
+* [npm](recipes/npm.md)
