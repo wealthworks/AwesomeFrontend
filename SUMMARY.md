@@ -8,5 +8,7 @@
 
 ### Recipes
 
-* [Git](recipes/git.md)
+* [git](recipes/git.md)
+* [honcho](recipes/honcho.md)
 * [npm](recipes/npm.md)
+* [shell](recipes/shell.md)
